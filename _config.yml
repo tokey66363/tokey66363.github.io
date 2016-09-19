@@ -1,0 +1,34 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: tokey66363
+  email: tokey66363@gmail.com
+  link: null
+  weibo: null
+  github: https://github.com/tokey66363
+
+# 站点信息
+title: tokey66363
+description: tokey66363
+url: http://tokey66363.github.io
+rss_url: /pages/atom.xml
+baseurl: /blog
+highlighter: rouge
+
+# avatar头像及Favicon
+avatar: http://hiddaorear.github.io/assets/img/me.jpg
+favicon: http://hiddaorear.github.io/assets/img/github.ico
+
+# google analytics 设置
+ga:
+  url: hiddaorear.github.io
+
+# disqus 设置
+disqus:
+  shortname: tokey66363
